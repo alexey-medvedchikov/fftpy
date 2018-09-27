@@ -1,2 +1,2 @@
 # fftpy
-Fast Fourier Transoft written in Python
+Fast Fourier Transform written in Python
